@@ -1,0 +1,3 @@
+[submodule "mspring-eureka-server"]
+	path = mspring-eureka-server
+	url = git@github.com:IsJordanBraz/mspring-eureka-server.git
